@@ -1,0 +1,13 @@
+# Intellij
+.idea
+*.iws
+*.class
+*.ids
+*.iml
+*.ipr
+*.iws
+.classpath
+.idea/
+
+.project
+.settings/
